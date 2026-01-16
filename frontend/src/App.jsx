@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import Home from './pages/home'
 
 const App = () => {
 
@@ -8,7 +9,7 @@ const App = () => {
 
     return (
         <div>
-
+            <Home />
         </div>
     )
 }
