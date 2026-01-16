@@ -9,10 +9,7 @@ const App = () => {
 
     return (
         <div>
-<<<<<<< HEAD
             <Home />
-=======
->>>>>>> 2234c0fdadbc139cc641dda609db31186d14da9b
         </div>
     )
 }
